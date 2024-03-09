@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thedarklegend07
+- 👋 Hi, I’m @chwingum007
 - 👀 I’m interested in ...coding and programming
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...programmes that can  used by common people
